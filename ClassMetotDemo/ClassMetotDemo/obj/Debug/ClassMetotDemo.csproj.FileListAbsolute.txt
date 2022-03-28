@@ -1,0 +1,8 @@
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.SuggestedBindingRedirects.cache
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\repos\csharp-angular-learning\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
