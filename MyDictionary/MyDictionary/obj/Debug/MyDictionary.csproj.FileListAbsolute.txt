@@ -1,0 +1,8 @@
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.SuggestedBindingRedirects.cache
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\obj\Debug\MyDictionary.exe
+C:\repos\csharp-angular-learning\MyDictionary\MyDictionary\obj\Debug\MyDictionary.pdb
