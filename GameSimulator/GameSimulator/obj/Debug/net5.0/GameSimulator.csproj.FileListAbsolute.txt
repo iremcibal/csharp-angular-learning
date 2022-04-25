@@ -1,0 +1,16 @@
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\bin\Debug\net5.0\GameSimulator.exe
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\bin\Debug\net5.0\GameSimulator.deps.json
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\bin\Debug\net5.0\GameSimulator.runtimeconfig.json
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\bin\Debug\net5.0\GameSimulator.runtimeconfig.dev.json
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\bin\Debug\net5.0\GameSimulator.dll
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\bin\Debug\net5.0\GameSimulator.pdb
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.csproj.AssemblyReference.cache
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.AssemblyInfoInputs.cache
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.AssemblyInfo.cs
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.csproj.CoreCompileInputs.cache
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.dll
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\refint\GameSimulator.dll
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.pdb
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\GameSimulator.genruntimeconfig.cache
+C:\repos\csharp-angular-learning\GameSimulator\GameSimulator\obj\Debug\net5.0\ref\GameSimulator.dll
